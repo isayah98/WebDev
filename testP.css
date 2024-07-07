@@ -1,0 +1,38 @@
+.banner{
+background-color: brown;
+font-family: fantasy;
+padding-right: 15px;
+padding-left: 25px;
+padding-top: 15px;
+padding-bottom: 10px;
+border-radius: 10px;
+}
+.navbar{
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+h1{
+font-size: 35px;
+color: white;
+font-weight: 200;
+display: inline;
+}
+button{
+width: 60px;
+height:30px;
+border-radius: 10px;
+background-color: black;
+color: white;
+}
+h2{
+color: purple;
+text-align: center;
+font: bold;
+}
+.container{
+position: center;
+margin: center;
+}
+
+
